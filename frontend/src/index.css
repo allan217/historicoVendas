@@ -25,7 +25,7 @@ a, a:hover, a:visited {
     text-decoration: none;
 }
 .dsmeta-conteiner {
-    width: 100%;
+    width: 90%;
     max-width: 900px;
     margin: 0 auto;
 }
