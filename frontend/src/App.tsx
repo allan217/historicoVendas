@@ -6,6 +6,7 @@ import SalesCard from "./componentes/salesCard";
 function App() {
   return (
     <>
+      <ToastContainer />
       <Header />
       <SalesCard />
     </>
